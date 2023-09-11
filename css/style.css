@@ -73,6 +73,7 @@ a:hover {
   outline: none;
   border: none;
   border-radius: 50px;
+  cursor: pointer;
 }
 
 .sushi__subtitle {
